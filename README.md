@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
- Check out our [community champions](https://help.github.com/categories/github-pages-basics/).
+ Check out our [community champions](Blogs/ReadMe.md).
