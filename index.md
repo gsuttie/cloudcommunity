@@ -100,6 +100,8 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![alt text](https://gsuttie.github.io/cloudcommunity/assets.images/azureimage.png "Azure Logo")
+
 
 ### Large image
 
