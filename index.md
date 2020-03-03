@@ -3,6 +3,11 @@
 layout: default
 ---
 
+# Welcome to GitHub Pages
+
+ Check out our <a href="https://gsuttie.github.io/cloudcommunity/Blogs/">Community Champions</a>.
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
