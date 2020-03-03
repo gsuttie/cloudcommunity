@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-Community Champions 
+## Welcome to our Azure Community Champions page
 
 This is a list of Azure Community Champions, twitter handles and theyre blogs
 

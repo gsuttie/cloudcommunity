@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
- Check out our [community champions](Blogs/ReadMe.md).
+ Check out our (<a href="https://gsuttie.github.io/cloudcommunity/Blogs/README.md">Community Champions</a>).
