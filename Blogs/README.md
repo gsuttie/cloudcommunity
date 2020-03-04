@@ -18,4 +18,4 @@
 | James Randall       | @azuretrenches   | <a href="https://azurefromthetrenches.com" target="_blank">https://azurefromthetrenches.com</a>     |
 | Jamie Maguire       | @jamie_maguire1  | <a href="https://jamiemaguire.net" target="_blank">https://jamiemaguire.net</a>                     |
 | Jack Tracey         | @jack_ref        | <a href="https://jacktracey.co.uk" target="_blank">https://jacktracey.co.uk</a>                     |
-| Howard van Rooijen  | @HowardvRooijen  | <a href="https://azureweekly.com" target="_blank">https://azureweekly.com</a>                     |
+| Howard van Rooijen  | @HowardvRooijen  | <a href="https://azureweekly.info" target="_blank">https://azureweekly.info</a>                     |
